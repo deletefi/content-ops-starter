@@ -47,7 +47,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/background-grid.svg
+      url: /images/abstract-background.svg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
