@@ -19,7 +19,8 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "altText": "О платформе"
+            "altText": "О платформе",
+            "showIcon": true
         },
         {
             "label": "Blog",
