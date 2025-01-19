@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Платформа для оптовой торговли рыбой, ягодами, фруктами и овощами'
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
