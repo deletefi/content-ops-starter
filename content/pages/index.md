@@ -53,7 +53,7 @@ sections:
       opacity: 100
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Платформа для оптовой торговли
       color: text-dark
   - type: FeaturedItemsSection
     subtitle: Всё необходимое для эффективной торговли в одном месте
