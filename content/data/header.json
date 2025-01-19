@@ -84,7 +84,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Войти",
             "url": "https://app.fa-fi.io/",
             "icon": "arrowRight",
             "iconPosition": "right",
