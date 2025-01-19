@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
       url: /images/pexels-steve-13845238.jpg
