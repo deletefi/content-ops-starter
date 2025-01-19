@@ -68,7 +68,7 @@ sections:
       title: Title of the video
       url: /images/placeholder-video.mp4
       autoplay: true
-      loop: true
+      loop: false
       muted: false
       controls: false
       aspectRatio: '16:9'
