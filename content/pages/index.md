@@ -41,14 +41,6 @@ sections:
       type: Badge
       label: Платформа для оптовой торговли.
       color: text-primary
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
   - type: FeaturedItemsSection
     subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
