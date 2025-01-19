@@ -27,7 +27,7 @@ sections:
       type: ImageBlock
       url: /images/Texture-Pixel-Squre-Dot--Streamline-Textures.svg
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
