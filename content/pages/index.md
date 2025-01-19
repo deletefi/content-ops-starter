@@ -23,7 +23,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/Select (2).gif
+      url: /images/Select (3).gif
       altText: Image alt text placeholder
       elementId: ''
       styles:
