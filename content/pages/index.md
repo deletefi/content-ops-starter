@@ -22,10 +22,13 @@ sections:
         elementId: ''
         type: Button
     media:
-      altText: Fa Fi- торговая платформа
-      elementId: ''
       type: ImageBlock
-      url: /images/Texture-Pixel-Squre-Dot--Streamline-Textures.svg
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
     elementId: ''
     colors: bg-light-fg-dark
     styles:
