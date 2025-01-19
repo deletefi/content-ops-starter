@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Платформа для оптовой торговли рыбой, ягодами, фруктами и овощами.'
+      text: Платформа для оптовой торговли.
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
