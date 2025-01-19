@@ -77,7 +77,7 @@
         {
             "label": "Регистрация",
             "altText": "Sign up",
-            "url": "",
+            "url": "https://app.fa-fi.io/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
