@@ -52,7 +52,7 @@ sections:
           - pr-16
     badge:
       type: Badge
-      label: This is a badge
+      label: Платформа для оптовой торговли.
       color: text-primary
   - type: FeaturedItemsSection
     title:
