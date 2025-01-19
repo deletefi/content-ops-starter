@@ -49,13 +49,6 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - type: FeaturedItemsSection
-    title:
-      text: Key Benefits
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
     subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
       - type: FeaturedItem
