@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      altText: ''
+      altText: Fa Fi- торговая платформа
       elementId: ''
       type: ImageBlock
       url: /images/pexels-steve-13845238.jpg
