@@ -51,6 +51,10 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: FeaturedItemsSection
     subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
