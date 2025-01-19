@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
       - type: FeaturedItem
         title: 500k
