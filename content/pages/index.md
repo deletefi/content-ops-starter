@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Начать торг
         altText: ''
-        url: /
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
