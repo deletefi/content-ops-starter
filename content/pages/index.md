@@ -16,7 +16,7 @@ sections:
 
 
     actions:
-      - label: ''
+      - label: Начать торг
         altText: ''
         url: /
         showIcon: false
