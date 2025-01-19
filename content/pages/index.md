@@ -25,7 +25,7 @@ sections:
       altText: Fa Fi- торговая платформа
       elementId: ''
       type: ImageBlock
-      url: /images/pexels-steve-13845238.jpg
+      url: /images/Texture-Pixel-Squre-Dot--Streamline-Textures.svg
     elementId: ''
     colors: bg-light-fg-dark
     styles:
