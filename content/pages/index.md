@@ -23,7 +23,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/Select-bro.svg
+      url: /images/Select-bro.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
