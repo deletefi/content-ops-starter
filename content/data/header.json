@@ -85,7 +85,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://app.fa-fi.io/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
