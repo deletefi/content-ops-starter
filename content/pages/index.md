@@ -40,10 +40,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    badge:
-      type: Badge
-      label: Платформа для оптовой торговли.
-      color: text-primary
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
