@@ -15,7 +15,7 @@
         {
             "label": "О платформе",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "send",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
