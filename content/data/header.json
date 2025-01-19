@@ -86,7 +86,7 @@
         {
             "label": "Войти",
             "url": "https://app.fa-fi.io/",
-            "icon": "play",
+            "icon": "send",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
