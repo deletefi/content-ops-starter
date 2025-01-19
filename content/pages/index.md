@@ -48,7 +48,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Texture-Pixel-Squre-Dot--Streamline-Textures.svg
   - type: FeaturedItemsSection
     subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
