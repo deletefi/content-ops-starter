@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: Платформа для оптовой торговли.
-      color: text-primary
-      type: TitleBlock
     subtitle: ''
     text: >+
       Легко находите поставщиков и покупателей, заключайте выгодные сделки и
