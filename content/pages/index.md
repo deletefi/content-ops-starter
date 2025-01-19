@@ -24,7 +24,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Select (3).gif
-      altText: Image alt text placeholder
+      altText: Торговая платформа Fa Fi
       elementId: ''
       styles:
         self:
