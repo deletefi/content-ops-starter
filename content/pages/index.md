@@ -416,7 +416,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Базовый
         price: Бесплатно
         details: ''
         description: >-
