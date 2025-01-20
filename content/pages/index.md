@@ -262,7 +262,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Будьте в курсе новых торгов, обновлений и статусов сделок.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
