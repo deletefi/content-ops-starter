@@ -357,29 +357,6 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Рыба и морепродукты
-        subtitle: ''
-        image:
-          type: ImageBlock
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
         title: Business Consulting
         tagline: Feature 2
         subtitle: Be in good company
