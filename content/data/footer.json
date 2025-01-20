@@ -37,7 +37,7 @@
             {
                 "label": "Служба поддержки",
                 "altText": "Служба поддержки ",
-                "url": "",
+                "url": "https://t.me/fafi_support_bot",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
