@@ -202,7 +202,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Рыбный рынок
         tagline: ''
         subtitle: ''
         text: ''
