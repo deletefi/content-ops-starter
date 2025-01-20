@@ -347,8 +347,9 @@ sections:
         title: Инструменты для участников торгов
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: |+
+          Удобные функции для размещения предложений и участия в торгах.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
