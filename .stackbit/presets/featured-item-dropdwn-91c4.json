@@ -1,0 +1,42 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "dropdwn",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "down"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Регистрация",
+                "tagline": null,
+                "subtitle": "",
+                "text": "Создайте аккаунт как поставщик или покупатель, чтобы начать торговать.\n\n",
+                "image": null,
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-neutral-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "textAlign": "left",
+                        "borderRadius": "x-large",
+                        "flexDirection": "row",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-dropdwn-91c4.png"
+        }
+    ]
+}
