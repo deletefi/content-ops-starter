@@ -176,7 +176,7 @@ sections:
     subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Умный поиск
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
