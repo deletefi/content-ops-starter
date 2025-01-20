@@ -212,7 +212,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: Доступные рынки
       color: text-primary
       styles:
         self:
