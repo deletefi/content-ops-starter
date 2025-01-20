@@ -185,7 +185,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Доступные рынки
       color: text-dark
       styles:
         self:
