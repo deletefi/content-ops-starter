@@ -392,7 +392,7 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    variant: small-list
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
