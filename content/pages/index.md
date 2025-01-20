@@ -452,9 +452,9 @@ sections:
         title: Business
         price: $10
         details: в месяц
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          Для малого и среднего бизнеса с активным участием в торгах.
+
         features:
           - Feature one
           - Feature two
