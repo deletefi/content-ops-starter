@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Овощи",
+    "role": "",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/Farmers market-bro.png",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }

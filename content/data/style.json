@@ -1,9 +1,9 @@
 {
-    "light": "#ffffff",
-    "dark": "#4A4A4A",
-    "neutral": "#E8E8EB",
-    "neutralAlt": "#DCDCDC",
-    "primary": "#2a2a2a",
+    "light": "#F0F7F7",
+    "dark": "#002833",
+    "neutral": "#C4DAD9",
+    "neutralAlt": "#E8E8EB",
+    "primary": "#004E4A",
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
@@ -59,7 +59,7 @@
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
-        "shadow": "none",
+        "shadow": "md",
         "horizontalPadding": 30,
         "verticalPadding": 12,
         "type": "ThemeStyleButton"

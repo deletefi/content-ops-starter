@@ -1,56 +1,43 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/apple-touch-icon.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "© 2023-2025 ОсОО Fa Fi. Все права защищены.\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Связаться",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
+                "type": "Link",
+                "label": "info@fa-fi.io",
+                "altText": "Play",
+                "url": "mailto:info@fa-fi.io",
+                "showIcon": true,
+                "icon": "mail",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "+996 990 120 163",
+                "url": "tel:+996990120163",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Номер телефона +996 990 120 163"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Служба поддержки",
+                "altText": "Служба поддержки ",
+                "url": "https://t.me/fafi_support_bot",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -62,14 +49,8 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "url": "https://www.facebook.com/profile.php?id=61553850592176",
+            "icon": "facebook",
             "type": "Social"
         },
         {
@@ -77,33 +58,29 @@
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
+            "label": "Политика конфиденциальности",
+            "url": "https://docs.google.com/document/d/1Y8Fci8As89yCT0xm8sUE0tJa4KpOjenx/edit?usp=sharing&ouid=109169925573918503366&rtpof=true&sd=true",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "политика конфиденциальности"
         },
         {
-            "label": "Privacy",
-            "url": "/",
+            "label": "Пользовательское соглашение",
+            "url": "https://docs.google.com/document/d/10eJhHyVw7gLWAwoxdy0-zSWLXER1LIBCSmHzGJAl7l0/edit?usp=sharing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Пользовательское соглашение"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
