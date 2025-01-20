@@ -179,8 +179,7 @@ sections:
         title: Умный поиск
         tagline: ''
         subtitle: ''
-        text: |
-          Находите лучшие предложения с помощью системы рекомендаций.
+        text: ''
         image:
           type: ImageBlock
           url: /images/Farmers market-bro.png
