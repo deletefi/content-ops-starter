@@ -194,7 +194,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: 'Рыбный рынок '
+        subtitle: Рыба и морепродукты
         text: ''
         image:
           type: ImageBlock
