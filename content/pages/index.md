@@ -183,13 +183,6 @@ sections:
           - pr-7
     type: DividerSection
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Доступные рынки
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     subtitle: Доступные рынки
     items:
       - type: FeaturedItem
