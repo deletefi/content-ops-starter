@@ -222,7 +222,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/fruit salad-rafiki.png
+          url: /images/cherry-bro (1).png
           altText: Placeholder image
           styles:
             self:
