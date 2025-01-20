@@ -241,7 +241,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 200%
-        subtitle: Faster
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
