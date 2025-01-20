@@ -175,7 +175,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Всё необходимое для эффективной торговли в одном месте
+      text: ''
       color: text-primary
       styles:
         self:
