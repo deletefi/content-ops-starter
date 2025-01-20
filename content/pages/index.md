@@ -212,7 +212,7 @@ sections:
     subtitle: Простой процесс для участия в торгах на платформе
     items:
       - type: FeaturedItem
-        title: Зарегистрируйтесь как поставщик или покупатель
+        title: Регистрация
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
