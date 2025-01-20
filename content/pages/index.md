@@ -307,10 +307,7 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
