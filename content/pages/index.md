@@ -209,7 +209,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Простой процесс для участия в торгах на платформе
     items:
       - type: FeaturedItem
         title: Account Executive
