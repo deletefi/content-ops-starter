@@ -321,7 +321,7 @@ sections:
       - type: FeaturedItem
         title: Поиск и фильтрация товаров
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Быстрая навигация с помощью фильтров по категориям, регионам, ценам и
           типам обработки.
