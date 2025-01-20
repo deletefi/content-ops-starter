@@ -193,7 +193,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Рыбный рынок
+        title: ''
         subtitle: 'Рыбный рынок '
         text: ''
         image:
