@@ -260,7 +260,7 @@ sections:
       - type: FeaturedItem
         title: Персональные уведомления
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Будьте в курсе новых торгов, обновлений и статусов сделок.
         image:
