@@ -251,7 +251,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
+        title: Торги
         subtitle: Engineering
         text: >+
           Размещайте торги с вашими условиями или участвуйте в уже созданных,
