@@ -297,6 +297,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 400
   - title:
       text: Generic Section With A Form
       color: text-dark
