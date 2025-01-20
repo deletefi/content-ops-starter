@@ -57,7 +57,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Всё необходимое для эффективной торговли в одном месте
+    subtitle: Все инструменты для вашей торговли в одном месте
     items:
       - type: FeaturedItem
         title: Умный поиск
