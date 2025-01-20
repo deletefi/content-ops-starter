@@ -369,7 +369,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: История торгов
         tagline: ''
         subtitle: ''
         text: |
