@@ -448,38 +448,6 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Business
-        price: $10
-        details: в месяц
-        description: |+
-          Для малого и среднего бизнеса с активным участием в торгах.
-
-        features:
-          - Неограниченное количество торгов.
-          - 'Комиссия: 1% с успешных сделок.'
-          - Базовая аналитика
-          - Расширенные уведомления
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Cвязаться с нами
-            url: ''
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Business+
         price: $15
         details: в месяц
