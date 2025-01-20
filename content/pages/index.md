@@ -241,7 +241,7 @@ sections:
           безопасным процессам.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Secure data.gif
           altText: Background alt text
           styles:
             self:
