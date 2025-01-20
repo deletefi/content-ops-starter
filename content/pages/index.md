@@ -183,7 +183,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: FeaturedItemsSection
-    subtitle: Доступные рынки
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Рыба и морепродукты
