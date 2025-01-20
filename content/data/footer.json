@@ -80,7 +80,7 @@
             "altText": "Пользовательское соглашение"
         }
     ],
-    "copyrightText": "",
+    "copyrightText": "© 2023-2025 ОсОО Fa Fi. Все права защищены.\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
