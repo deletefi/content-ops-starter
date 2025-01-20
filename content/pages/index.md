@@ -204,7 +204,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Умный поиск
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
