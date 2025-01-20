@@ -180,7 +180,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Находите лучшие предложения с помощью системы рекомендаций.
         image:
           type: ImageBlock
           url: /images/Farmers market-bro.png
