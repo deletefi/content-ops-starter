@@ -361,7 +361,6 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/trawl fishing-bro.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
