@@ -253,10 +253,10 @@ sections:
       - type: FeaturedItem
         title: Senior Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Размещайте торги с вашими условиями или участвуйте в уже созданных,
+          делая свои предложения.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
