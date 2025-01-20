@@ -316,7 +316,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: История торгов
+    subtitle: 'Всё, что нужно для удобной торговли'
     items:
       - type: FeaturedItem
         title: 500k
