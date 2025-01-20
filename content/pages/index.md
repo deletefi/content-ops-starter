@@ -327,7 +327,7 @@ sections:
           типам обработки.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Web search.gif
           altText: Placeholder image
           styles:
             self:
