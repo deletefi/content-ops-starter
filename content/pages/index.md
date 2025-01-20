@@ -524,7 +524,7 @@ sections:
           - Все возможности Business+.
           - Безлимитное количество торгов.
           - Комиссия обсуждается индивидуально.
-          - Feature four
+          - Доступ к аналитике в реальном времени.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
