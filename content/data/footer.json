@@ -80,7 +80,7 @@
         },
         {
             "label": "Пользовательское соглашение",
-            "url": "/",
+            "url": "https://docs.google.com/document/d/10eJhHyVw7gLWAwoxdy0-zSWLXER1LIBCSmHzGJAl7l0/edit?usp=drive_link",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
