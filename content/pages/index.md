@@ -255,7 +255,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/pick-fresh-fruit.jpg
           altText: Placeholder text
           styles:
             self:
