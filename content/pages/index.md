@@ -467,7 +467,7 @@ sections:
         actions:
           - type: Button
             label: Cвязаться с нами
-            url: /
+            url: ''
             icon: arrowRight
             iconPosition: right
             style: secondary
