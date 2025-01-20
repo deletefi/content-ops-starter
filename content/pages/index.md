@@ -289,7 +289,7 @@ sections:
             justifyContent: center
     actions:
       - type: Button
-        label: Apply now
+        label: Регистрация
         url: /
         icon: arrowRight
         iconPosition: right
