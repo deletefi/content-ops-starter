@@ -21,7 +21,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/Select (3).gif
+      url: /images/Online world.gif
       altText: Торговая платформа Fa Fi
       elementId: ''
       styles:
