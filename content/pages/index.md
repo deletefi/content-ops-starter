@@ -268,7 +268,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Farmers market-bro.png
           altText: Placeholder text
           styles:
             self:
