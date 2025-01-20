@@ -522,7 +522,7 @@ sections:
           Индивидуальные решения для крупнейших игроков рынка.
         features:
           - Все возможности Business+.
-          - Feature two
+          - Безлимитное количество торгов.
           - Feature three
           - Feature four
         image:
