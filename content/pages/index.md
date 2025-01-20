@@ -105,7 +105,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 'Защита сделок:'
+      - title: Защита сделок
         subtitle: ''
         text: >+
           Гарантия надежности и прозрачности благодаря проверенным участникам и
