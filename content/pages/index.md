@@ -208,6 +208,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Доступные рынки
   - title:
       text: Generic Section With A Form
       color: text-dark
