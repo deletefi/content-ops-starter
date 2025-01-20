@@ -176,31 +176,6 @@ sections:
     subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
       - type: FeaturedItem
-        title: Умный поиск
-        tagline: ''
-        subtitle: Находите лучшие предложения с помощью системы рекомендаций.
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/trawl fishing-bro.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
