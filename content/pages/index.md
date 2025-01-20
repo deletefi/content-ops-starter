@@ -352,7 +352,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/International trade (1).gif
           altText: Placeholder image
           styles:
             self:
