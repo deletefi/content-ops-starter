@@ -525,7 +525,10 @@ sections:
         textAlign: center
 seo:
   metaTitle: 'Fa Fi — Платформа для оптовой торговли овощами, фруктами, ягодами и рыбой'
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Fa Fi — платформа для оптовой торговли овощами, фруктами, ягодами и рыбой.
+    Легко находите поставщиков и покупателей, заключайте выгодные сделки и
+    участвуйте в торгах. Присоединяйтесь сейчас
   socialImage: /images/Untitled design (2).png
   type: Seo
   metaTags:
