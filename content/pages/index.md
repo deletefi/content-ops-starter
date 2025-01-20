@@ -456,7 +456,7 @@ sections:
           Для малого и среднего бизнеса с активным участием в торгах.
 
         features:
-          - Feature one
+          - Неограниченное количество торгов.
           - Feature two
           - Feature three
           - Feature four
