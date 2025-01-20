@@ -130,7 +130,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Персональные уведомления
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
           Будьте в курсе новых торгов, обновлений и статусов сделок.
 
