@@ -354,32 +354,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/trawl fishing-bro.png
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     variant: dots-nav
     colors: bg-light-fg-dark
     styles:
