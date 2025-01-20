@@ -239,7 +239,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Фрукты
         tagline: ''
         subtitle: ''
         text: ''
