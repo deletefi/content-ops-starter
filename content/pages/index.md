@@ -308,7 +308,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/trawl fishing-bro.png
           altText: Maria Walters
           styles:
             self:
