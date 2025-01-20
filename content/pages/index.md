@@ -473,6 +473,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
+            altText: Cвязаться с нами
         colors: bg-neutral-fg-dark
         styles:
           self:
