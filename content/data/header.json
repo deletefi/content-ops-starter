@@ -13,16 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "О платформе",
-            "url": "/pricing",
-            "icon": "",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "О платформе",
-            "showIcon": true
-        },
-        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
