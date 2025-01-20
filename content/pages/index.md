@@ -526,6 +526,7 @@ sections:
           - Комиссия обсуждается индивидуально.
           - Доступ к аналитике в реальном времени.
           - Персональный менеджер.
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
