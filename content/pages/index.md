@@ -271,9 +271,9 @@ sections:
       - type: FeaturedItem
         title: Контакты
         subtitle: ''
-        text: |+
-          Создайте аккаунт как поставщик или покупатель, чтобы начать торговать.
-
+        text: >
+          После завершения торгов получите данные для связи и заключите сделку
+          напрямую.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
