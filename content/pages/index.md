@@ -332,7 +332,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: Рыба и  морепродукты
         tagline: ''
         subtitle: ''
         text: ''
