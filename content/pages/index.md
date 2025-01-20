@@ -218,7 +218,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Ягодный рынок
+        title: Ягоды
         subtitle: ''
         text: ''
         image:
