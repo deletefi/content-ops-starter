@@ -112,7 +112,7 @@ sections:
           безопасным процессам.
 
         image:
-          url: /images/icon3.svg
+          url: /images/digital-wallet.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
