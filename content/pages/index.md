@@ -291,7 +291,7 @@ sections:
       - type: Button
         label: Регистрация
         url: 'https://app.fa-fi.io/'
-        icon: arrowRight
+        icon: ''
         iconPosition: right
         style: primary
         altText: Кнопка регистрации
