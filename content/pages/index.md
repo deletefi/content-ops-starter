@@ -464,7 +464,7 @@ sections:
           - Расширенные уведомления
         image:
           type: ImageBlock
-          url: /images/Market launch.gif
+          url: /images/Market launch (2).gif
           altText: Pricing plan 3
         actions:
           - type: Button
