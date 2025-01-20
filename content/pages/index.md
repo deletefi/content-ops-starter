@@ -469,7 +469,7 @@ sections:
         actions:
           - type: Button
             label: Cвязаться с нами
-            url: /
+            url: 'https://t.me/fafi_support_bot'
             icon: arrowRight
             iconPosition: right
             style: secondary
