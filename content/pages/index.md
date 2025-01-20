@@ -290,7 +290,7 @@ sections:
     actions:
       - type: Button
         label: Регистрация
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: primary
