@@ -299,7 +299,7 @@ sections:
           textAlign: center
           fontWeight: 400
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Рыбный рынок
