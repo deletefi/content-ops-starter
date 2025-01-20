@@ -18,6 +18,17 @@
                 "type": "Link"
             },
             {
+                "type": "Link",
+                "label": "Send email",
+                "altText": "Play",
+                "url": "mailto:info@fa-fi.io",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "icon": "arrowRight",
