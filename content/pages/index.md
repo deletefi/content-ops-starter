@@ -374,6 +374,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: 'Всё, что нужно для удобной торговли'
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
