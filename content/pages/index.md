@@ -106,7 +106,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'Защита сделок:'
-        subtitle: Faster
+        subtitle: ''
         text: >+
           Гарантия надежности и прозрачности благодаря проверенным участникам и
           безопасным процессам.
