@@ -172,10 +172,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: Всё необходимое для эффективной торговли в одном месте
-      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
