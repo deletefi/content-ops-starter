@@ -240,7 +240,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Овощной рынок
+        title: Овощи
         subtitle: ''
         text: ''
         image:
