@@ -490,7 +490,7 @@ sections:
         features:
           - Неограниченное количество торгов.
           - 'Комиссия: 1% с успешных сделок.'
-          - Feature three
+          - Базовая аналитика
           - Feature four
           - Feature five
         image:
