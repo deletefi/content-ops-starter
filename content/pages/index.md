@@ -209,6 +209,10 @@ sections:
       subtitle:
         textAlign: center
     subtitle: Доступные рынки
+    badge:
+      type: Badge
+      label: Доступные рынки
+      color: text-primary
   - title:
       text: Generic Section With A Form
       color: text-dark
