@@ -322,8 +322,7 @@ sections:
         title: Поиск и фильтрация товаров
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
