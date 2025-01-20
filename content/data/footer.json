@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "info@app.fa-fi.io",
-                "altText": "Features page",
+                "altText": "mailto",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
