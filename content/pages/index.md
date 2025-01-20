@@ -194,7 +194,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Рыбный рынок
-        subtitle: ''
+        subtitle: 'Рыбный рынок '
         text: ''
         image:
           type: ImageBlock
