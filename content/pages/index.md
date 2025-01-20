@@ -316,7 +316,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: История торгов
     items:
       - type: FeaturedItem
         title: 500k
