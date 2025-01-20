@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "Send email",
+                "label": "info@fa-fi.io",
                 "altText": "Play",
                 "url": "mailto:info@fa-fi.io",
                 "showIcon": true,
