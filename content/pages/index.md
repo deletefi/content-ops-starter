@@ -494,6 +494,7 @@ sections:
           - Добавление до 5 пользователей в одну учетную запись.
           - Интеграция с ERP/CRM системами.
           - Приоритетная техподдержка
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
