@@ -259,7 +259,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Персональные уведомления
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Будьте в курсе новых торгов, обновлений и статусов сделок.
