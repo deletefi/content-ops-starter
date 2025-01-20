@@ -425,7 +425,7 @@ sections:
         features:
           - До 10 торгов размещений бесплатно
           - 'Комиссия: 1% с успешных сделок.'
-          - Feature three
+          - 'Доступ к базовым уведомлениям (email, push-уведомления).'
           - Feature four
         image:
           type: ImageBlock
