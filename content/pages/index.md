@@ -408,7 +408,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Гибкие тарифы для любого бизнеса
       color: text-dark
       styles:
         self:
