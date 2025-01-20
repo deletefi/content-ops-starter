@@ -484,9 +484,9 @@ sections:
         title: Business+
         price: $15
         details: в месяц
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Для профессиональных участников, которым важны аналитика и командная
+          работа.
         features:
           - Feature one
           - Feature two
