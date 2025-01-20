@@ -219,8 +219,7 @@ sections:
         title: Feature Item Two
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
