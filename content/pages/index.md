@@ -10,7 +10,7 @@ sections:
       заключайте выгодные сделки и начинайте торговать. Присоединяйтесь сейчас!"
 
     actions:
-      - label: Начать торг
+      - label: Начать торги
         altText: ''
         url: 'https://app.fa-fi.io/'
         showIcon: false
