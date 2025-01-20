@@ -433,7 +433,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Try for free
+            label: Бесплатно
             url: 'https://app.fa-fi.io/'
             icon: arrowRight
             iconPosition: right
