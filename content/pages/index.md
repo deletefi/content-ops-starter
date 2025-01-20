@@ -194,7 +194,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Рыба и морепродукты
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
