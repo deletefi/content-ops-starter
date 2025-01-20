@@ -497,7 +497,7 @@ sections:
           - Поддержка корпоративных интеграций.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Creativity.gif
           altText: Pricing plan 1
         actions:
           - type: Button
