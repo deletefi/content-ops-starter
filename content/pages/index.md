@@ -216,7 +216,7 @@ sections:
           заключать сделки.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/International trade.gif
           altText: Background alt text
           styles:
             self:
