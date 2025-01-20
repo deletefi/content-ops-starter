@@ -260,7 +260,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Фруктовый рынок
+        title: Фрукты
         subtitle: ''
         text: ''
         image:
