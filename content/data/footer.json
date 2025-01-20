@@ -9,15 +9,6 @@
         "title": "Связаться",
         "links": [
             {
-                "label": "info@app.fa-fi.io",
-                "altText": "mailto",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "label": "info@fa-fi.io",
                 "altText": "Play",
