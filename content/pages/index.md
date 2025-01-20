@@ -233,10 +233,10 @@ sections:
       - type: FeaturedItem
         title: Выбор рынка
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Найдите подходящий рынок: овощи, фрукты, ягоды или рыба, и выберите
+          интересующие категории.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
