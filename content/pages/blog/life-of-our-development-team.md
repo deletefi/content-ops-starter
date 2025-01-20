@@ -4,7 +4,7 @@ slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: ''
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/Farmers market-bro.png
   altText: Thumbnail
   type: ImageBlock
   styles:
