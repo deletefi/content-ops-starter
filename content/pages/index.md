@@ -194,7 +194,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
