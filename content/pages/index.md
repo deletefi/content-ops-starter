@@ -208,7 +208,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/pexels-energepic-com-27411-3650159.jpg
+          url: /images/trawl fishing-bro.png
           altText: Placeholder text
           styles:
             self:
