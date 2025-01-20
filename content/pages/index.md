@@ -222,7 +222,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/fruit salad-pana.png
+          url: /images/fruit salad-rafiki.png
           altText: Placeholder image
           styles:
             self:
