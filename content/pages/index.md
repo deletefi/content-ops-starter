@@ -294,6 +294,9 @@ sections:
       type: TitleBlock
       text: Доступные рынки
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title:
       text: Generic Section With A Form
       color: text-dark
