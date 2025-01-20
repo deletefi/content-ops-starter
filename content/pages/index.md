@@ -523,7 +523,7 @@ sections:
         features:
           - Все возможности Business+.
           - Безлимитное количество торгов.
-          - Feature three
+          - Комиссия обсуждается индивидуально.
           - Feature four
         image:
           type: ImageBlock
