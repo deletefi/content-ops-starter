@@ -434,7 +434,7 @@ sections:
         actions:
           - type: Button
             label: Try for free
-            url: /
+            url: 'https://app.fa-fi.io/'
             icon: arrowRight
             iconPosition: right
             style: secondary
