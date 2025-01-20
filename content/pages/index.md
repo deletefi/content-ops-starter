@@ -176,33 +176,6 @@ sections:
     subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/touch.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Умный поиск
         tagline: ''
         subtitle: Находите лучшие предложения с помощью системы рекомендаций.
