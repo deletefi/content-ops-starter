@@ -262,7 +262,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Овощи
         tagline: ''
         subtitle: ''
         text: ''
