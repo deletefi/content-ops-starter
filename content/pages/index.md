@@ -366,7 +366,7 @@ sections:
     title:
       type: TitleBlock
       text: Доступные рынки
-      color: text-dark
+      color: text-primary
   - title:
       text: Generic Section With A Form
       color: text-dark
