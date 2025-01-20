@@ -214,7 +214,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/trawl fishing-bro.png
           altText: Jane Doe
           styles:
             self:
