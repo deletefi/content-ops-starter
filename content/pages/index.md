@@ -341,7 +341,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/trawl fishing-bro.png
           altText: Business consulting
           elementId: ''
           styles:
