@@ -11,7 +11,7 @@ sections:
 
     actions:
       - label: Начать торги
-        altText: ''
+        altText: 'Кнопка для регистрации '
         url: 'https://app.fa-fi.io/'
         showIcon: false
         icon: arrowRight
