@@ -36,7 +36,7 @@
         "links": [
             {
                 "label": "Служба поддержки",
-                "altText": "careers page",
+                "altText": "Служба поддержки ",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
