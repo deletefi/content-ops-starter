@@ -208,7 +208,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/pexels-energepic-com-27411-3650159.jpg
           altText: Placeholder text
           styles:
             self:
