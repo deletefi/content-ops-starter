@@ -231,7 +231,8 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/GlobeBagCompanyInc-97642-Produce-Fresh-Market-blogbanner1_82c4b8c7-15ae-4dc9-9e4d-a09b9bd9d609.jpg
           altText: Placeholder text
           styles:
             self:
