@@ -260,7 +260,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: 500k
+        title: Фруктовый рынок
         subtitle: ''
         text: ''
         image:
