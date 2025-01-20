@@ -245,7 +245,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/fruit basket-pana.png
           altText: Placeholder image
           styles:
             self:
