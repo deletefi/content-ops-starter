@@ -213,7 +213,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Регистрация
-        subtitle: Sales
+        subtitle: ''
         text: |+
           Создайте аккаунт как поставщик или покупатель, чтобы начать торговать.
 
