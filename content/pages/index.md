@@ -517,7 +517,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: Цена по запросу
-        details: Индивидуальные решения для крупнейших игроков рынка.
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
