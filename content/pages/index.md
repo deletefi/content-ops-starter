@@ -518,7 +518,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: Цена по запросу
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
