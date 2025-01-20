@@ -291,8 +291,9 @@ sections:
         title: Умный поиск
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          Находите лучшие предложения с помощью системы рекомендаций.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
