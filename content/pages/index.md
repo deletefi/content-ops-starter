@@ -334,7 +334,7 @@ sections:
       - type: FeaturedItem
         title: Business Consulting
         tagline: ''
-        subtitle: Be in good company
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
