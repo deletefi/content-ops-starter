@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Умный поиск
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
           Находите лучшие предложения с помощью системы рекомендаций.
 
