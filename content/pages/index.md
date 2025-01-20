@@ -288,7 +288,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Умный поиск
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
