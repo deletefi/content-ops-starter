@@ -126,7 +126,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             borderColor: border-primary
             borderWidth: 8
             borderStyle: none
