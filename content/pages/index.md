@@ -356,7 +356,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: tabs-nav
+    variant: dots-nav
     colors: bg-light-fg-dark
     styles:
       self:
