@@ -205,7 +205,7 @@ sections:
       - type: FeaturedItem
         title: Умный поиск
         tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
