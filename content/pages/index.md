@@ -218,7 +218,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
+        title: Ягодный рынок
         subtitle: ''
         text: ''
         image:
