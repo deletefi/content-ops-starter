@@ -193,7 +193,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Рыбный рынок
         subtitle: ''
         text: ''
         image:
