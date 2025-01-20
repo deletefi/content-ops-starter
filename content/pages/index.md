@@ -193,7 +193,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Рыба и морепродукты
         tagline: ''
         subtitle: ''
         text: ''
