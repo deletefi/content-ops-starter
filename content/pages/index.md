@@ -129,6 +129,7 @@ sections:
             flexDirection: row
             borderColor: border-primary
             borderWidth: 8
+            borderStyle: none
         type: FeaturedItem
       - type: FeaturedItem
         title: Персональные уведомления
