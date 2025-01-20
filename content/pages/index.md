@@ -524,9 +524,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: >-
-    Агротрейдинг Платформа для оптовой торговли овощами, фруктами, ягодами и
-    рыбой
+  metaTitle: 'Fa Fi — Платформа для оптовой торговли овощами, фруктами, ягодами и рыбой'
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/Untitled design (2).png
   type: Seo
