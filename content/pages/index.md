@@ -183,13 +183,6 @@ sections:
           - pr-7
     type: DividerSection
   - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Доступные рынки
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     people:
       - content/data/person1.json
       - content/data/person2.json
