@@ -458,7 +458,7 @@ sections:
         features:
           - Неограниченное количество торгов.
           - 'Комиссия: 1% с успешных сделок.'
-          - Feature three
+          - 'Базовая аналитика (история торгов, цены по рынкам).'
           - Feature four
         image:
           type: ImageBlock
