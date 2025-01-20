@@ -178,7 +178,7 @@ sections:
       - type: FeaturedItem
         title: Умный поиск
         tagline: ''
-        subtitle: ''
+        subtitle: Находите лучшие предложения с помощью системы рекомендаций.
         text: ''
         image:
           type: ImageBlock
