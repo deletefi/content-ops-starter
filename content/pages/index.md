@@ -297,7 +297,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-    variant: toggle-list
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
