@@ -265,7 +265,7 @@ sections:
           Будьте в курсе новых торгов, обновлений и статусов сделок.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Portfolio Update.gif
           altText: Placeholder text
           styles:
             self:
