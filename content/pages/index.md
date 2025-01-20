@@ -55,10 +55,9 @@ sections:
       - type: FeaturedItem
         title: Умный поиск
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Находите лучшие предложения с помощью системы рекомендаций.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
