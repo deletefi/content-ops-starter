@@ -180,7 +180,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Всё необходимое для эффективной торговли в одном месте
     items:
       - type: FeaturedItem
         title: Умный поиск
