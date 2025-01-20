@@ -177,7 +177,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Умный поиск
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Находите лучшие предложения с помощью системы рекомендаций.
