@@ -219,7 +219,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 20x
-        subtitle: The Job Stuff
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
