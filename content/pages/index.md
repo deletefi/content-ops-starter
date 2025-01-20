@@ -233,7 +233,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Защита сделок
         tagline: ''
         subtitle: This is the item subtitle
         text: |
