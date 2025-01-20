@@ -423,7 +423,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - До 10 торгов размещений бесплатно
           - Feature two
           - Feature three
           - Feature four
