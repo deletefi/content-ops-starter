@@ -464,7 +464,7 @@ sections:
           - Расширенные уведомления
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Processing.gif
           altText: Pricing plan 3
         actions:
           - type: Button
