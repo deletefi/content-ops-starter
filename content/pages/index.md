@@ -225,7 +225,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Ягодный рынок
         tagline: ''
         subtitle: ''
         text: ''
