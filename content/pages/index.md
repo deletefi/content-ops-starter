@@ -278,7 +278,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Доступные рынки
       color: text-dark
       styles:
         self:
