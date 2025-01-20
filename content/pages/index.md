@@ -211,8 +211,9 @@ sections:
         title: Торговая система
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Создавайте и участвуйте в торгах, чтобы находить выгодные условия и
+          заключать сделки.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
