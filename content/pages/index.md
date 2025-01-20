@@ -376,7 +376,7 @@ sections:
           Доступ к архиву завершённых сделок и аналитике ваших успехов.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Digital transformation.gif
           altText: Placeholder image
           styles:
             self:
