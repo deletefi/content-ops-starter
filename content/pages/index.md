@@ -193,7 +193,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: Рыба и морепродукты
         subtitle: ''
         text: ''
         image:
