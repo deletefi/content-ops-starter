@@ -417,7 +417,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Developers
-        price: Free
+        price: Бесплатно
         details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
