@@ -518,9 +518,8 @@ sections:
         title: Enterprise
         price: Цена по запросу
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Индивидуальные решения для крупнейших игроков рынка.
         features:
           - Все возможности Business+.
           - Feature two
