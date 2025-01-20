@@ -492,7 +492,7 @@ sections:
           - 'Комиссия: 1% с успешных сделок.'
           - Расширенная аналитика
           - Добавление до 5 пользователей в одну учетную запись.
-          - Feature five
+          - Интеграция с ERP/CRM системами.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
