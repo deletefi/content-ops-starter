@@ -365,7 +365,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Доступные рынки
       color: text-dark
   - title:
       text: Generic Section With A Form
