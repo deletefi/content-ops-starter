@@ -191,7 +191,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Analyze.gif
+          url: /images/Analyze (1).gif
           altText: Background alt text
           styles:
             self:
