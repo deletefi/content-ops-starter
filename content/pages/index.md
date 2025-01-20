@@ -190,7 +190,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: Доступные рынки
     items:
       - type: FeaturedItem
         title: Рыба и морепродукты
