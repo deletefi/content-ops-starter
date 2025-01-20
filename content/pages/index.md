@@ -357,7 +357,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Рыба и морепродукты
         subtitle: ''
         image:
           type: ImageBlock
