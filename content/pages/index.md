@@ -356,7 +356,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Рыба и  морепродукты
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
