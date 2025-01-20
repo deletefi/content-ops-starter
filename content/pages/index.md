@@ -488,7 +488,7 @@ sections:
           Для профессиональных участников, которым важны аналитика и командная
           работа.
         features:
-          - Feature one
+          - Неограниченное количество торгов.
           - Feature two
           - Feature three
           - Feature four
