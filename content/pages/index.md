@@ -302,7 +302,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Рыбный рынок
+        title: Рыба и морепродукты
         tagline: ''
         subtitle: ''
         text: ''
