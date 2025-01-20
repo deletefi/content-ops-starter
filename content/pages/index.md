@@ -278,7 +278,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/21448966_lel-1.jpg
           altText: Placeholder text
           styles:
             self:
