@@ -245,7 +245,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/fruit basket-pana (1).png
+          url: /images/pineapple-cuate.png
           altText: Placeholder image
           styles:
             self:
