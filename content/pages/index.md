@@ -311,7 +311,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: 'Всё, что нужно для удобной торговли'
       color: text-primary
       styles:
         self:
