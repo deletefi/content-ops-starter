@@ -160,7 +160,7 @@ sections:
             flexDirection: row
     actions: []
     variant: two-col-grid
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
