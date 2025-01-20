@@ -449,7 +449,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Business
-        price: $99
+        price: $10
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
