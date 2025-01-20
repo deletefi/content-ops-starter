@@ -438,6 +438,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
+            altText: Кнопка для бесплатного пользование
         colors: bg-neutral-fg-dark
         styles:
           self:
