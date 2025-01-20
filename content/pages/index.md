@@ -450,7 +450,7 @@ sections:
       - type: PricingPlan
         title: Business
         price: $10
-        details: per month
+        details: в месяц
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
