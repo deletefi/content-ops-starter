@@ -517,7 +517,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Enterprise
-        price: Free
+        price: Индивидуально
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
