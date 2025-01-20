@@ -339,7 +339,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/trawl fishing-bro.png
+          url: /images/21448966_lel-1.jpg
           altText: Placeholder text
           styles:
             self:
