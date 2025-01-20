@@ -418,7 +418,7 @@ sections:
       - type: PricingPlan
         title: Developers
         price: Free
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
