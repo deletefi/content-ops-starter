@@ -419,9 +419,8 @@ sections:
         title: Базовый
         price: Бесплатно
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |2
+           Для профессионалов, которые хотят протестировать систему перед переходом на платные тарифы.
         features:
           - До 10 торгов размещений бесплатно
           - Feature two
