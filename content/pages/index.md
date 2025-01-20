@@ -322,7 +322,9 @@ sections:
         title: Поиск и фильтрация товаров
         tagline: ''
         subtitle: This is the item subtitle
-        text: ''
+        text: >
+          Быстрая навигация с помощью фильтров по категориям, регионам, ценам и
+          типам обработки.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
