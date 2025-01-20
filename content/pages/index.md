@@ -222,7 +222,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Farmers market-bro.png
           altText: Placeholder image
           styles:
             self:
