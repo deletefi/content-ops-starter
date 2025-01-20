@@ -186,29 +186,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Рыба и морепродукты
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/trawl fishing-bro.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
         title: Ягоды
         tagline: ''
         subtitle: ''
