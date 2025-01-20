@@ -311,7 +311,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Поиск и фильтрация товаров
         tagline: Поиск и фильтрация товаров
         subtitle: ''
         text: >+
