@@ -50,7 +50,7 @@ sections:
       text: Платформа для оптовой торговли
       color: text-dark
   - type: FeaturedItemsSection
-    subtitle: Всё необходимое для эффективной торговли в одном месте
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Умный поиск
