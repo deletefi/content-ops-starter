@@ -313,7 +313,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/pick-fresh-fruit.jpg
           altText: Jane Doe
           styles:
             self:
