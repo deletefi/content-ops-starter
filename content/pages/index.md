@@ -230,14 +230,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/Analyze (1).gif
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
