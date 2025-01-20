@@ -236,8 +236,9 @@ sections:
         title: Защита сделок
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Гарантия надежности и прозрачности благодаря проверенным участникам и
+          безопасным процессам.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
