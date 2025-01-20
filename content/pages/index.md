@@ -294,7 +294,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        altText: 'Кнопка '
+        altText: Кнопка регистрации
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
