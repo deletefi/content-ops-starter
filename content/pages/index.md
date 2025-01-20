@@ -231,7 +231,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Farmers market-bro.png
+          url: /images/cherry-bro.png
           altText: Placeholder text
           styles:
             self:
