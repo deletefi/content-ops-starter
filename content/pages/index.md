@@ -13,7 +13,7 @@ sections:
       морепродуктами.
     actions:
       - type: Button
-        label: Get started
+        label: 'Начать '
         altText: ''
         url: 'https://app.fa-fi.io/'
         showIcon: false
