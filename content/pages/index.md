@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: 'Начать '
-        altText: ''
+        altText: Кнопка начать
         url: 'https://app.fa-fi.io/'
         showIcon: false
         icon: arrowRight
