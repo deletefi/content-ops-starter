@@ -24,7 +24,7 @@ sections:
     media:
       type: ImageBlock
       altText: Dope design preview
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
