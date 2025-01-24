@@ -47,7 +47,7 @@ sections:
       opacity: 100
     title:
       type: TitleBlock
-      text: Платформа для оптовой торговли
+      text: Удобные закупки и продажи в одном месте
       color: text-dark
   - type: FeaturedItemsSection
     title:
