@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Начать
-        url: ''
+        url: 'https://app.fa-fi.io/'
         icon: arrowRight
         iconPosition: right
         style: secondary
