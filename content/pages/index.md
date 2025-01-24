@@ -20,7 +20,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Online world (1).gif
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
