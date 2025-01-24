@@ -2,53 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    subtitle: Закупки и продажи в одном месте
-    text: >
-      Умная платформа для оптовой торговли овощами, фруктами, ягодами, рыбой и
-      морепродуктами.
-    actions:
-      - label: Начать торги
-        altText: 'Кнопка для регистрации '
-        url: 'https://app.fa-fi.io/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    media:
-      type: ImageBlock
-      url: /images/Online world (1).gif
-      altText: Торговая платформа Fa Fi
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-      subtitle:
-        fontWeight: 700
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-    title:
-      type: TitleBlock
-      text: Закупки и продажи в одном месте
-      color: text-dark
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
