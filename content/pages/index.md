@@ -20,6 +20,15 @@ sections:
         style: secondary
         altText: Кнопка начать
         showIcon: true
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://app.fa-fi.io/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Online world (1).gif
