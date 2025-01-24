@@ -23,7 +23,6 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Online world (1).gif
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
