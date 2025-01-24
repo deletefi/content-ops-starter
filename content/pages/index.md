@@ -13,7 +13,7 @@ sections:
       морепродуктами.
     actions:
       - type: Button
-        label: Get started
+        label: Начать
         url: /
         icon: arrowRight
         iconPosition: right
