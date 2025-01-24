@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: Закупки и продажи в одном месте
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Умная платформа для оптовой торговли овощами, фруктами, ягодами, рыбой и
+      морепродуктами.
     actions:
       - type: Button
         label: Get started
