@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Закупки и продажи в одном месте
       color: text-dark
     subtitle: Закупки и продажи в одном месте
     text: >
