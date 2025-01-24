@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: ''
+    subtitle: Закупки и продажи в одном месте
     text: >
       Умная платформа для оптовой торговли овощами, фруктами, ягодами, рыбой и
       морепродуктами.
