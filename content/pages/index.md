@@ -45,7 +45,7 @@ sections:
       opacity: 100
     title:
       type: TitleBlock
-      text: Удобные закупки и продажи в одном месте
+      text: Закупки и продажи в одном месте
       color: text-dark
   - type: FeaturedItemsSection
     title:
