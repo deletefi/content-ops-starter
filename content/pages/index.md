@@ -18,6 +18,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Кнопка начать
     media:
       type: ImageBlock
       url: /images/Online world (1).gif
